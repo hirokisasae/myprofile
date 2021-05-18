@@ -133,6 +133,13 @@ footer {
 	text-align: center;
 }
 
+#selfpicture img{
+	margin-right: 20px;
+	width: 35%;
+	float: right;
+	border-radius: 30px;
+}
+
 #maru2 img {
 	margin-top: 11px;
 	width: 50%;
